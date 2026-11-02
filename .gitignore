@@ -1,0 +1,15 @@
+# Local editor and notebook state
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+Thumbs.db
+
+# Local project and generated folders
+anaconda_projects/
+5_CBOW/
+LP IV Updated Datasets/
